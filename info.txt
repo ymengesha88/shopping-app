@@ -1,1 +1,1 @@
-welcome to git training
+welcome to git training, git is open source 
