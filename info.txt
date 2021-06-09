@@ -1,1 +1,4 @@
-welcome to git training, git is open source 
+welcome to git training, git is open source, git is distributed
+git is popular
+git is fast
+git is important Devops tool
