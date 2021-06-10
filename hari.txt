@@ -2,3 +2,4 @@ Hari lives in Bangalore
 Hari works as an architect
 Hari works as a consultant
 Hari works as a trainer tool
+git branch isolates our work
